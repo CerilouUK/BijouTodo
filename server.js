@@ -20,9 +20,9 @@ if (process.env.NODE_ENV === 'production') {
   });
 }
 
-const host = 'localhost';
+const host = 'ceri.cxmdyexuvfqc.eu-west-1.rds.amazonaws.com';
 const user = 'root';
-const pswd = 'password';
+const pswd = '7#dgh-DB';
 const dbname = 'books';
 
 // config db ====================================
